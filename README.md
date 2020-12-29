@@ -13,7 +13,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/subl1ne/insfollow_rus`
+`$ git clone https://github.com/subl1ne/insfolow_rus`
 
 `$ cd insfollow_rus`
 
